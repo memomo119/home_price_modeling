@@ -5,7 +5,7 @@
 
 by Annelise Holverstott
 
-DSI 927/Hopper
+DSI 927
 <br><br>
 
 -----------------
@@ -13,12 +13,14 @@ DSI 927/Hopper
 
 
 This project identifies characteristics of a house or the lot itself that building professionals should emphasize in order to increase the sale price of new homes.
+
 <br><br>
 -----------------
 ## Data Dictionary
 
 
 Please refer to this [data dictionary](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt) from the original study. 
+
 <br><br>
 -----------------
 ## Analysis
